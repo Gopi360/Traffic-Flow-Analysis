@@ -1,0 +1,14 @@
+# Core CV & DL
+ultralytics>=8.2.0
+opencv-python>=4.9.0.80
+numpy>=1.24.0
+
+# Tracker & utilities
+supervision>=0.20.0
+tqdm>=4.66.0
+
+# Video download (YouTube)
+yt-dlp>=2024.5.27
+
+# CSV/report helpers
+pandas>=2.0.0
